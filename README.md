@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi there, I'm Akshay Kumar 👋
 
-<!--
-**akdhiman358/akdhiman358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer | MCA Graduate
 
-Here are some ideas to get you started:
+🚀 I'm passionate about crafting responsive and dynamic web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- React, Next.js
+- JavaScript, HTML, CSS
+- Tailwind CSS
+- Git
+
+### 🌱 Currently Learning
+- Next.js
+- TypeScript
+- Redux
+
+### 🎓 Education
+- Master of Computer Applications (MCA)
+- Bachelor of Computer Applications (BCA)
+
+### 👨‍💻 Projects
+1. [Portfolio Website](https://akshay-u-d.netlify.app/)
+2. [Recipes App](https://cook-with-recipe.netlify.app/)
+3. [Travel Camping Landing Page](https://travelcampingage.netlify.app/)
+
+### 📫 How to reach me
+- Email: akdhiman358@gmail.com
+- LinkedIn: [akshay-u-d](https://www.linkedin.com/in/akshay-u-d)
+- Portfolio: [akshay-u-d.netlify.app](https://akshay-u-d.netlify.app/)
+
+Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project!
